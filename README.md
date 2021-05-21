@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoseCroppi
-- 👀 I’m interested in ...
+- 👀 I’m interested in Finite Element programs that include Fracture Mechanics
 - 🌱 I’m currently learning Machine Learning using Python
 - 💞️ I’m looking to collaborate on Finite Element Programs
 - 📫 How to reach me: jose.croppi@rub.de
